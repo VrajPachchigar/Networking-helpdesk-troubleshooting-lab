@@ -20,6 +20,6 @@ User's internet was up and running. Ticket closed in Spiceworks with troubleshoo
 
 ## Screenshots
 <!-- Put your screenshots in the screenshots/ folder, then uncomment and rename the lines below -->
-<!-- ![Ticket created](screenshots/01-ticket-created.png) -->
-<!-- ![ipconfig output](screenshots/02-ipconfig.png) -->
-<!-- ![Ticket closed](screenshots/03-ticket-closed.png) -->
+![Ticket created](screenshots/01-ticket-created.png)
+![ipconfig output](screenshots/02-ipconfig.png)
+![Ticket closed](screenshots/03-ticket-closed.png)
