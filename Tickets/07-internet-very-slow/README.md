@@ -11,7 +11,7 @@ User reports very slow internet.
 3. Ran a speed test to check the internet speed
 
 ## Resolution
-Ticket closed with troubleshooting notes. Ticket closed in Spiceworks with troubleshooting notes.
+Ticket closed in Spiceworks with troubleshooting notes.
 
 ## Screenshots
 **1) Ticket created**
