@@ -35,4 +35,4 @@ tickets/
 Spiceworks, Windows Command Prompt, Device Manager, Windows Network Settings, Task Manager
 
 ## About Me
-Vraj Pachchigar, CompTIA A+ certified, MEng in Electrical and Computer Engineering. Cambridge, ON.
+Vraj Pachchigar, CompTIA A+ certified, MEng in Electrical and Computer Engineering.
