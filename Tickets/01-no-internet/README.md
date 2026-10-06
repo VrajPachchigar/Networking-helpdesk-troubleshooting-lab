@@ -20,9 +20,9 @@ User's internet was up and running. Ticket closed in Spiceworks with troubleshoo
 
 ## Screenshots
 <!-- Put your screenshots in the screenshots/ folder, then uncomment and rename the lines below -->
-![Ticket created](Screenshots/no-internet-ticket-created.png)
-![ipconfig output](screenshots/02-ipconfig.png)
-![Ticket closed](screenshots/03-ticket-closed.png)
+[Ticket created](Screenshots/no-internet-ticket-created.png)
+[ipconfig output](screenshots/02-ipconfig.png)
+[Ticket closed](screenshots/03-ticket-closed.png)
 
 <img width="1516" height="575" alt="no internet ticket created" src="https://github.com/user-attachments/assets/5453b36d-d9c1-498d-bd22-862e6dffb1ae" />
 
